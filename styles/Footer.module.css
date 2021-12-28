@@ -1,0 +1,24 @@
+
+
+.footer{
+  border-top: 1px solid rgba(128, 128, 128, 0.301);
+  padding-top: 50px;
+  margin-top: 50px;
+}
+
+
+.ul>li{
+  list-style: none;
+  margin-left: -30px;
+}
+.ul>li>a{
+ text-decoration: none;
+ color: gray;
+ 
+}
+.ul>li>a:hover{
+  text-decoration: underline;
+}
+.title{
+  font-size: 20px;
+}

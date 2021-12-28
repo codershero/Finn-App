@@ -1,0 +1,18 @@
+
+
+.media{
+  display: flex;
+  justify-content: space-between;
+}
+.media>li{
+  list-style: none;
+}
+
+.content{
+  padding-left: 50px;
+
+}
+.content>small{
+  font-size: 13px;
+}
+

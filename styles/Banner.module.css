@@ -1,0 +1,46 @@
+.banner {
+  background-color: #f1f5f9;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.panel {
+  vertical-align: baseline;
+}
+.flexBox {
+  display: flex;
+  justify-content: space-around;
+}
+.InputBox {
+  width: 80%;
+}
+.fps__input {
+  border: 1px solid #c3ccd9;
+  margin: 20px 0;
+  height: 48px;
+  width: 90%;
+  font-size: 16px;
+}
+.fps__input {
+  flex-grow: 1;
+  border: 0;
+  font-size: 16px;
+  padding: 8px 36px 8px 8px;
+  border-radius: 4px;
+  -webkit-appearance: none;
+  clear: both;
+}
+.fps__submit {
+  margin-left: -47px;
+  background: transparent;
+  border: none;
+}
+.fps__submit svg {
+  width: 26px;
+  height: 26px;
+  vertical-align: middle;
+}
+.iconBox{
+  margin-top: 10px;
+  margin-left: -218px;
+}

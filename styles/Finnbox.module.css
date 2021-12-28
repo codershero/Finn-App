@@ -1,0 +1,26 @@
+
+.card{
+  background-image: url('../public/Assests/finboximg.jpg');
+  background-repeat: no-repeat;
+  background-position: right 50%;
+  background-size: contain;
+  padding-right: 270px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid rgb(163, 163, 163);
+  
+}
+
+
+.btn1,.btn2{
+  padding: 3px 6px;
+  border: none;
+  background: none;
+  color: rgb(0, 110, 255);
+  border: 2px solid rgba(78, 78, 78, 0.37);
+  border-radius: 5px;
+  font-weight: 700;
+}
+.btn2{
+  margin-left: 20px;
+}
